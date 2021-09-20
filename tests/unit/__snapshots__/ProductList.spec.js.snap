@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductList has the expected HTML structure 1`] = `
+<div>
+  <header-stub />
+   
+  <ul
+    class="products"
+  >
+    <li>
+      <productcard-stub
+        product="[object Object]"
+      />
+    </li>
+    <li>
+      <productcard-stub
+        product="[object Object]"
+      />
+    </li>
+    <li>
+      <productcard-stub
+        product="[object Object]"
+      />
+    </li>
+    <li>
+      <productcard-stub
+        product="[object Object]"
+      />
+    </li>
+    <li>
+      <productcard-stub
+        product="[object Object]"
+      />
+    </li>
+    <li>
+      <productcard-stub
+        product="[object Object]"
+      />
+    </li>
+  </ul>
+   
+  <div
+    class="footer"
+  >
+    <div
+      class="form-input"
+    >
+      <input
+        placeholder="Enter the product name"
+        required="required"
+        type="text"
+      />
+       
+      <!---->
+       
+      <button
+        class="button-add"
+        type="submit"
+      >
+        
+        Add to List
+      
+      </button>
+    </div>
+  </div>
+</div>
+`;
