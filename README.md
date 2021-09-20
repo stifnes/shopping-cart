@@ -1,4 +1,4 @@
-# wirecube-shoppinglist
+# wirecube-shoppinglist demo https://gallant-wilson-1d9a9a.netlify.app/#/
 ...
 --- This project contains a representation of the shopping cart list item in any e-commerce website/admin portal.
 --- User can add already added products in the list.
